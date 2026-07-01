@@ -1,6 +1,6 @@
 # Orphaned!
 
-(Disclaimer: We are not affiliated in any way with Monarch tractor other than owning tractors with no support whatsover.  Please don't sue us, we are already suffering!  What follows is personal opinions, not fact.)
+<sup>(Disclaimer: We are not affiliated in any way with Monarch tractor other than owning tractors with no support whatsover.  Please don't sue us, we are already suffering!  What follows is personal opinions, not fact.)</sup>
 
 Monarch Tractor was an American agricultural technology company founded in 2018 and headquartered in Livermore, California. It developed battery-electric tractors with "driver-optional" features for use in vineyards and other farms. The company raised more than $240 million in venture capital and was reportedly valued at $518 million in July 2024.  The automation features never delivered on what was promised, and the base EV tractor is largely "unfiinshed" and unreliable for just basic manual "tractoring".
 
