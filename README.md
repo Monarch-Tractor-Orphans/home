@@ -11,3 +11,5 @@ Monarch never released any kind of service manual, wiring diagrams, software too
 So here we are; a collection of owners, some who paid crazy prices for these under the promise of an awesome electric tractor that can operate by itself, and others who picked one up cheap at a sale or auction.  There are still more becoming available.
 
 Here we hope to collect and share any information we can find to help be able to keep using these as basic electric tractors.
+
+Discussion: https://github.com/Monarch-Tractor-Orphans/home/discussions
