@@ -2,6 +2,8 @@
 
 <sup>(Disclaimer: We are not affiliated in any way with Monarch tractor other than owning tractors with no support whatsover.  Please don't sue us, we are already suffering!  What follows is personal opinions, not fact.)</sup>
 
+Discussions/info/chat: https://github.com/Monarch-Tractor-Orphans/home/discussions
+
 Monarch Tractor was an American agricultural technology company founded in 2018 and headquartered in Livermore, California. It developed battery-electric tractors with "driver-optional" features for use in vineyards and other farms. The company raised more than $240 million in venture capital and was reportedly valued at $518 million in July 2024.  The automation features never delivered on what was promised, and the base EV tractor is largely "unfiinshed" and unreliable for just basic manual "tractoring".
 
 In November 2025, Monarch began laying off employees and announced a proposed shift from hardware manufacturing to software licensing.  In April 2026 construction giant Caterpillar acquired what was left of Monarch's assets.  Cat has not announced or offered any support to existing owners of tractors, nor has there been any public release of useful information that may assist owners.  There have been a lot of tractors in various degrees of operation (or not) sold at auctions and continue to be passed around the provate markets.
@@ -11,5 +13,3 @@ Monarch never released any kind of service manual, wiring diagrams, software too
 So here we are; a collection of owners, some who paid crazy prices for these under the promise of an awesome electric tractor that can operate by itself, and others who picked one up cheap at a sale or auction.  There are still more becoming available.
 
 Here we hope to collect and share any information we can find to help be able to keep using these as basic electric tractors.
-
-Discussion: https://github.com/Monarch-Tractor-Orphans/home/discussions
