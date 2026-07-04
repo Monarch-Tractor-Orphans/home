@@ -1,6 +1,6 @@
 # Orphaned!
 
-<sup>(Disclaimer: We are not affiliated in any way with Monarch tractor other than owning tractors with no support whatsover.  Please don't sue us, we are already suffering!  What follows is personal opinions, not fact.)</sup>
+<sup>(Disclaimer: We are not affiliated in any way with Monarch tractor other than owning tractors with no support whatsover.  Please don't sue us, we are already suffering!  What follows are personal opinions, not fact.)</sup>
 
 Discussions/info/chat: https://github.com/Monarch-Tractor-Orphans/home/discussions
 
